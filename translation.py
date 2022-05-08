@@ -7,29 +7,29 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [PR0FESS0R-99](t.me/PR0FESS0R_99)
+🧑 My Dev : [Happy kid sk](t.me/Happy_kid_sk)
 
 🧑 My Creator : {dev_name}
 
 📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
 
-📺 My Tutorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
+📺 My Tutorial : [Ckick Here](https://linktr.ee/HappyKidBGMZ)
 
-🗃️ My Library : [Pyrogram](https://youtu.be/Af055Eozk9s)
+🗃️ My Library : [Pyrogram](https://linktr.ee/HappyKidBGMZ)
 
-🖇️ My Language : [Python3](https://youtu.be/Af055Eozk9s)
+🖇️ My website : [HappyKidBGMZ](https://linktr.ee/HappyKidBGMZ)
 
-🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
+🗃️ My Group : [Movies research](https://t.me/+50Kg8WSgE6VkNDU1)
 
-🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
+🗳️ My Channel : [Cinema Time](t.me/cinema_time_sk)
 
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
+🏷️ My Updates : [HappyKidBGMZ](t.me/happyKidBGMZ)
 
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+🗣️ My Support : [Any Doubt](t.me/bgm_linkzz)"""
 
-    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
+    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}\n\n〽️ Powered By @HappyKidBGMZ\n\nShare and Support us❤️\n\n🎯 Join Now ☞ @BGM_LinkzZ""""""
 
-    PR0FESS0R_99 = """
+    HappyKidBGMZ = """
 **ADMINS COMMANDS**
 
  » /broadcast - Reply Any Media Or Message
@@ -45,13 +45,15 @@ class LuciferMoringstar(object):
 
 **Couldn't Find {query}?  Please Click Your Request Movie Name**"""
     GET_MOVIE_1 = """
-📽️ **Requested Movie** : [{query}]({url})
-👤 **Requested By** : {mention}
 🎬 **Title** : [{title}]({url})
 📆 **Year** : {year}
 🌟 **Rating** {rating}/10
 🗨️ **Genres** {genres}"""
+🔊 Audio : {languages}
+💿 Quality : HDCAM-RIP
 
+Share and Support us❤️
+JOIN : @BGM_LinkzZ"""
 
     GET_MOVIE_2 = """
 📽️ **Requested Movie** : {query}
