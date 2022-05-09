@@ -244,7 +244,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                 caption=CUSTOM_FILE_CAPTION.format(mention=query.from_user.mention, title=title, size=size, caption=files.caption)
 
                 buttons = [[
-                  InlineKeyboardButton('🧑‍💻 How To Own 🧑‍💻', url='https://t.me/Mo_Tech_Group')
+                  InlineKeyboardButton('🧑‍💻 Happy kid sk 🧑‍💻', url='https://t.me/happy_kid_sk')
                   ]]                 
                 
                 await query.answer()
@@ -267,8 +267,8 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                  InlineKeyboardButton("ℹ️ Help", callback_data="help"),
                  InlineKeyboardButton("😎 About", callback_data="about") 
                  ],[
-                 InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/FCU_XJmyG_U"),
-                 InlineKeyboardButton("🤖 Update", url="https://t.me/Mo_Tech_Group")
+                 InlineKeyboardButton("💌 Update", url="https://t.me/happykidbgmz"),
+                 InlineKeyboardButton("🤖 Support", url="https://t.me/bgm_linkzz")
                  ],[
                  InlineKeyboardButton("More 🦋 Updates", url="https://linktr.ee/HappyKidBGMZ")
                  ]]
@@ -279,8 +279,8 @@ async def cb_handler(client: lucifermoringstar_robot, query):
                  InlineKeyboardButton("ℹ️ Help", callback_data="bot_owner"),
                  InlineKeyboardButton("😎 About", callback_data="about") 
                  ],[
-                 InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/FCU_XJmyG_U"),
-                 InlineKeyboardButton("🤖 Update", url="https://t.me/Mo_Tech_Group")
+                 InlineKeyboardButton("💌 Update", url="https://t.me/happykidbgmz"),
+                 InlineKeyboardButton("🤖 Support", url="https://t.me/bgm_linkzz")
                  ],[
                  InlineKeyboardButton("More 🦋 Updates", url="https://linktr.ee/HappyKidBGMZ")
                  ]]               
@@ -308,7 +308,7 @@ async def cb_handler(client: lucifermoringstar_robot, query):
              InlineKeyboardButton('🏠 Home', callback_data="start"),
              InlineKeyboardButton('About 😎', callback_data="about")
              ]]               
-            await query.message.edit(text=LuciferMoringstar.PR0FESS0R_99.format(mention=query.from_user.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text=LuciferMoringstar.HappyKidBGMZ.format(mention=query.from_user.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
         elif query.data == "autofilter":
