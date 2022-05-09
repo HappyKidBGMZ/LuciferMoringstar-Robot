@@ -10,8 +10,8 @@
       "filter",
       "bot"
     ],
-    "website": "https://youtube.com/c/MoTech_YT",
-    "repository": "https://github.com/SadKidBGMZ/LuciferMoringstar-Robot",
+    "website": "https://linktr.ee/HappyKidBGMZ",
+    "repository": "https://github.com/HappyKidBGMZ/LuciferMoringstar-Robot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From https://youtu.be/cB4UduCcNWs",
